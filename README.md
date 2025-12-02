@@ -21,3 +21,23 @@ Event-driven features improved accuracy by ~2.4%
 
 
 Next Steps: SHAP analysis, LSTM modeling, real-time deployment.
+
+
+
+
+
+Steps to Execute :
+-------------------------
+Copy the entire dsp-poc folder in the google drive under MyDrive
+
+Also copy the dsp_rul_generate folder to MyDrive.
+
+Excute Code in the following Order -
+
+First run the " dsp_rul_and_eda.ipynb " 
+
+Post that
+
+enter the dsp-poc/predictive_maintenance_pipeline folder and run in serial order as per name.
+
+
